@@ -1,0 +1,25 @@
+#Wed Nov 30 23:03:59 CST 2022
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/adapter/DispatchAdapter.java=1669868093716
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/controller/PacmanController.java=1669870459452
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/GameStore.java=1669868093716
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/cmd/CmdFactory.java=1669863479931
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/cmd/ICharacterCmd.java=1669863479931
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/cmd/SwitchStrategyCmd.java=1669863479931
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/cmd/UpdateCmd.java=1669868093716
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/object/ACharacter.java=1669868093717
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/object/AItem.java=1669863479932
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/object/AObject.java=1669868093717
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/object/Ghost.java=1669868093718
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/object/Pacman.java=1669868093718
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/IUpdatePacmanStrategy.java=1669868093718
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/IUpdateStrategy.java=1669868093718
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/PacmanStrategy.java=1669868093719
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/StrategyFactory.java=1669868093719
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/ChaseStrategy.java=1669863853477
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/DFS.java=1669868093719
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/GoBackToBaseStrategy.java=1669868093720
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/IUpdateGhostStrategy.java=1669863479934
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/LeaveTheBaseStrategy.java=1669868093720
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/RetreatStrategy.java=1669863479934
+/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/WalkStrategy.java=1669863479934
+configuration*?=6344B1EFC4AC05C95D70162A65F5BC97490CC6E1

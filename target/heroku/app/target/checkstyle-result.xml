@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/adapter/DispatchAdapter.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/controller/PacmanController.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/cmd/CmdFactory.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/cmd/ICharacterCmd.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/cmd/UpdateCmd.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/cmd/SwitchStrategyCmd.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/object/AObject.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/object/Ghost.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/object/Pacman.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/object/AItem.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/object/ACharacter.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/GameStore.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/PacmanStrategy.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/IUpdatePacmanStrategy.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/IUpdateStrategy.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/GoBackToBaseStrategy.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/LeaveTheBaseStrategy.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/WalkStrategy.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/RetreatStrategy.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/ChaseStrategy.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/DFS.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/ghost/IUpdateGhostStrategy.java">
+</file>
+<file name="/Users/frankfeng/Desktop/Academic/Rice/COMP504/final-game-team-bigfoot/src/main/java/edu/rice/comp504/model/strategy/StrategyFactory.java">
+</file>
+</checkstyle>
